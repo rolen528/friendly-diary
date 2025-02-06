@@ -10,7 +10,6 @@
 
 ---
 
-
 # 기술 스택과 적용 방식
 
 ### <span style="color:lightgreen">1. 사용자 인증 & 로그인
