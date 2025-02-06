@@ -1,4 +1,4 @@
-# <span style="color:lightcoral">Friendly Diary
+# <span style="color:lightcoral">Friendly Diary</span>
 
 #### *나의 하루를 위로 해주는 다이어리*
 
